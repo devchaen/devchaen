@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **devchaen/devchaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<a href="https://chaelog.fyi/"><img src="https://img.shields.io/badge/Tech%20Blog%20%26%20Protfolio-8934d1" /></a> <a href="www.linkedin.com/in/chaehyeonkim-"><img src="https://img.shields.io/badge/LinkedIn-1664c6" /></a> <a href="chaehyeon.works@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&logoColor=white" /></a>
+===
+<!--
+#### 🛠️ Skills
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src=""/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchaen&layout=compact)
 -->
